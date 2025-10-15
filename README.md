@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 4th-year student at Esprit University specializing in cloud engineering, with hands-on experience in software development using C, C++, Java, Symfony, React, JavaScript, and PHP. During my internships at APTIV and Med.tn, I worked on real-world projects that enhanced my technical and problem-solving skills. I am passionate about cloud technologies and continuously strive to expand my knowledge in this rapidly evolving field.
+I am a 5th-year student at Esprit University specializing in cloud engineering, with hands-on experience in Azure and DevOps and in software development using C, C++, Java, Symfony, React, JavaScript, and PHP. During my internships at APTIV and Med.tn, I worked on real-world projects that enhanced my technical and problem-solving skills. I am passionate about cloud technologies and continuously strive to expand my knowledge in this rapidly evolving field.
 
 
 ## 🌐 Socials:
